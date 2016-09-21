@@ -1,0 +1,66 @@
+*{
+	margin: 10px;
+	font-family: arial, sans-serif; 
+}
+
+#top{
+	position: fixed;
+	top: 0px;
+	right:0px;
+}
+
+#bottom{
+	position: fixed;
+	bottom: 0px;
+	background-color:#f2f2f2;
+	width: 100%;
+}
+
+.right{
+	float: right;
+	padding-right:30px;
+}
+
+nav p, img{
+	display: inline-block;
+}
+
+nav p:hover{
+	text-decoration: underline;
+}
+
+#google{
+	margin: auto;
+	width: 30%;
+	height: auto;
+	padding-top: 250px;
+	text-align: center;
+}
+
+#google img{
+	width: 300px;
+	height: auto;
+}
+
+form{
+	text-align: center;
+}
+input{
+	height:36px;
+	width:425px;
+	text-align: center;
+	position: relative;
+	margin: 0 auto;
+}
+
+.buttonholder{
+	text-align: center;
+		margin-top: 30px;
+}
+.button{
+	background-color:#f2f2f2;
+	width: 126px;
+	font-size: 13px;s
+
+}
+
